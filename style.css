@@ -1,0 +1,18 @@
+h1{
+color: red;
+margin-top: 20px;
+}
+.test_image_results
+{
+background-color: gray;
+border: 3px black;
+border-radius: 20px;
+font-size: 20px;
+}
+
+h5{
+    background-color: white;
+    border: 3px black;
+    border-radius: 20px;
+    font-size: 30px;
+}
